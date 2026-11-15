@@ -4,7 +4,7 @@ Free online parser for Swift MT and ISO 20022 (MX) messages: **[mt-mx-parser.zag
 
 Paste a message or open a message file and see the header blocks, every field with its name and decoded value, 16R/16S sequences, ISO 20022 element trees with element names and definitions, the key fields of each message family, and format checks for BIC, IBAN, ISIN, LEI, UETR, dates, amounts and mandatory fields. Parsing runs in your browser; nothing is uploaded. Format checks are not full network validation.
 
-This repository holds documentation for the public tool. The tool itself is run by [ZagTrader](https://www.zagtrader.com/).
+Free, permanently, with no sign-up: ZagTrader's contribution to the banking community. This repository holds documentation for the tool; the tool itself is run by [ZagTrader](https://www.zagtrader.com/).
 
 ## What it reads
 
