@@ -59,7 +59,7 @@ The full table is on the [MX messages](https://mt-mx-parser.zagtrader.com/mx) pa
 ## Related
 
 - [ZagTrader FIX Parser](https://fixparser.zagtrader.com/) for FIX protocol messages and logs ([repository](https://github.com/ZagTrader/fix-parser))
-- [Swift suite at ZagTrader](https://www.zagtrader.com/platform/swift-suite) and [settlement and post-trade](https://www.zagtrader.com/platform/settlement)
+- [ZagTrader MT/MX Messaging](https://www.zagtrader.com/platform/mt-mx-messaging) and [settlement and post-trade](https://www.zagtrader.com/platform/settlement)
 - [About the MT/MX Parser](https://mt-mx-parser.zagtrader.com/about): who builds it, where the content comes from and how to report a correction
 
 © ZagTrader
